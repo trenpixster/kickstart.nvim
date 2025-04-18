@@ -444,7 +444,7 @@ require('lazy').setup({
       },
     },
   },
-  require 'kickstart.plugins.neo-tree',
+  require 'plugins.neo-tree',
   {
     -- Main LSP Configuration
     'neovim/nvim-lspconfig',
